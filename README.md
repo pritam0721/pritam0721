@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Gayen</h1>
 <h3 align="center">I am a software developer with a good sense of humor.</h3>
- <img src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media" alt="a_cool_image">
+ <img src="https://github.com/topics/gifs?o=desc&s=updated" alt="a_cool_image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam0721&label=Profile%20views&color=0e75b6&style=flat" alt="pritam0721" /> </p>
 
