@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Gayen</h1>
 <h3 align="center">I am a software developer with a good sense of humor.</h3>
-<img align="center" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="800px" height="400px">
+<img align="center" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="600px" height="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam0721&label=Profile%20views&color=0e75b6&style=flat" alt="pritam0721"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam0721" alt="pritam0721" /></a> </p>
