@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pritam Gayen</h1>
 <h3 align="center">I am a software developer with a good sense of humor.</h3>
- <img src="https://github.com/topics/gifs?o=desc&s=updated" alt="a_cool_image">
+ <img src="https://github.com/topics/gifs?o=desc&s=updated" alt="a_cool_image" width ="400" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam0721&label=Profile%20views&color=0e75b6&style=flat" alt="pritam0721" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam0721&label=Profile%20views&color=0e75b6&style=flat" alt="pritam0721"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam0721" alt="pritam0721" /></a> </p>
 
