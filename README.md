@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pritam Gayen</h1>
 <h3 align="center">I am a software developer with a good sense of humor.</h3>
 <img align="center" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Coder GIF" width="600px" height="400px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam0721&label=Profile%20views&color=0e75b6&style=flat" alt="pritam0721"  /> </p>
+<p align="left"> <img src="" alt="pritam0721"  /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam0721" alt="pritam0721" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/pritamg225" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/pritamg225?logo=twitter&style=for-the-badge" alt="https://twitter.com/pritamg225" /></a> </p>
 
-- 🌱 I’m currently learning **react , springboot**
+- 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [not done yet but comming soon](not done yet but comming soon)
 
